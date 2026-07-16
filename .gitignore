@@ -1,0 +1,9 @@
+# Excel temporary files
+~$*.xlsx
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
