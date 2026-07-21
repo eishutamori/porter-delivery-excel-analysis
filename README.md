@@ -73,7 +73,7 @@ The following preprocessing steps were performed:
 The interactive dashboard provides a consolidated view of Porter delivery operations, enabling users to monitor order volumes, delivery performance, and operational trends through dynamic KPIs, charts, and slicers.
 
 <p align="center">
-  <img src="dashboard/dashboard.png" alt="Porter Delivery Dashboard" width="100%">
+  <img src="dashboard/Dashboard.png" alt="Porter Delivery Dashboard" width="100%">
 </p>
 
 
